@@ -1,6 +1,4 @@
-<p align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9oMWo4cW9senZ4N2hicnlieXRiN2g5ZXRpOHMxNnZ6Z3A5NHRzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif" width="300"/>
-</p>
+
 
 # 👋 **Hi, I'm _[Your Name]_**
 
