@@ -1,6 +1,6 @@
 
 
-# 👋 **Hi, I'm _[Your Name]_**
+# 👋 **Hi, I'm Bakir Pasalic**
 
 **`Software Developer from Bosnia`**
 
